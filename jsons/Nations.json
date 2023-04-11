@@ -22,8 +22,8 @@
 
 		"favouredReligion": "Taoism",
 		"uniqueName": "Art of War",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster","[Great General] is earned [+20]% faster <before
-		discovering [Rifling]>","discover [Gunpowder] <upon discovering [Steel]>"],
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster","[Great General] is earned [+20]% faster before
+		discovering [Rifling]","discover [Gunpowder] upon discovering [Steel]"],
 
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
@@ -302,8 +302,8 @@
 									        "favoredReligion": "Christianity",
 											"uniqueName": "Manifest Destiny",
 											"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
-												"[-100]% maintenance on road & railroads <upon discovering [Railroads]>",
-												"[+100]% maintenance on road & railroads <upon discovering [Combustion]>",
+												"[-100]% maintenance on road & railroads upon discovering [Railroads]",
+												"[+100]% maintenance on road & railroads upon discovering [Combustion]",
 											 		"[+2 Gold, +2 Production] from each Trade Route <upon discovering [Railroads]>",
 											 		"[-2 Gold, -2 Production] from each Trade Route <upon discovering [Combustion]>"],
 
@@ -415,7 +415,6 @@
 											    },
 
 													{
-														//nations
 														"name": "Babylon",
 														"replaces": "Babylon",
 														"leaderName": "Nebuchadnezzar II",
