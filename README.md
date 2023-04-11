@@ -1,7 +1,8 @@
 # Unciv Rebalance Mod
 17 vanilla nations rebalanced to be more fun and interesting.
 
-# Changes
+# Notices
+Hey! Documentation is still not complete so just wait a bit :) I don't have very much time to test all the nations so please give feedback and report bugs and issues. It helps a lot, Thanks! 
 
 # America
 Additions:
@@ -45,9 +46,13 @@ Additions:
  +50% Production when constructing Culture wonders in all cities before discovering Steam Power
  +1 Culture whenever a Great Person is expended
   # Germany
+Changes:
+  "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [100]% chance>",
 Additions:
+  When defeating a [Barbarian, Land] unit, earn 5 Gold and recruit it with 13% chance
+  -100% maintenance costs for Barbarian units
   
-  
+ 
   
   
   
